@@ -17,5 +17,6 @@ Suddenly, from the shadows emerged his loyal feline companions, their eyes gleam
 With a fierce yowl, they pounced on the intruder, defending their beloved owner with all their might.
 
 *In that moment of chaos, Timmy Timmy realized the true power of love and loyalty, embodied by his faithful pets.*
-
-<img align="center" src="assets/timmy.gif"/>
+<div align="center">
+<img src="assets/timmy.gif"/>
+</div>
