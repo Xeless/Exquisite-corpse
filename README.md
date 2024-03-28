@@ -18,4 +18,4 @@ With a fierce yowl, they pounced on the intruder, defending their beloved owner 
 
 *In that moment of chaos, Timmy Timmy realized the true power of love and loyalty, embodied by his faithful pets.*
 
-<img src="![]assets/timmy.gif"/>
+<img src="assets/timmy.gif"/>
