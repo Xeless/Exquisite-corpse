@@ -7,3 +7,8 @@
 ### Son voisin lui disa "Si je les entend encore je vais bouffer tes chien"
 ## Ce a quoi Timmy Timmy lui répondi "C'est mes chats qui vont te bouffer ! Tim Tim Timmy"
 # Ho non pas les chats, j'ai peur des chats
+
+# "Hmm moi j'aime les chats" s'écriat le voisin d'en bas.
+## Timmy Timmy d'un air surppris dis " mais que fais-tu dans ma cave ?"
+### d'un ton aigrie il répondit " tu tu tu tu tu tu " le reveille de timmy sonna.
+
