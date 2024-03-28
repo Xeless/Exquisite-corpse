@@ -1,16 +1,14 @@
-# L'Histoire de Timmy Timmy
-
 ## Timmy Timmy avait 5 chats et 2 chiens. Un jour, une personne sonna à sa porte et lui demanda ceci :
 ### 'J'en ai marre d'entendre vos chiens aboyer chaque jour pendant des heures, c'est insupportable', dit-il d'un air désagréable.
-### Timmy Timmy lui répondit ceci : 'Si vous faisiez moins de bruit derrière le mur, cela n'arriverait pas.'"   
+### Timmy Timmy lui répondit ceci : 'Si vous faisiez moins de bruit derrière le mur, cela n'arriverait pas.'
 
-### Son voisin lui disa "Si je les entend encore je vais bouffer tes chien"
-## Ce a quoi Timmy Timmy lui répondi "C'est mes chats qui vont te bouffer ! Tim Tim Timmy"
-# Ho non pas les chats, j'ai peur des chats
+### Son voisin lui dit : "Si je les entends encore, je vais bouffer tes chiens."
+## À quoi Timmy Timmy lui répondit : "Ce sont mes chats qui vont te bouffer ! Tim Tim Timmy"
+# Oh non, pas les chats, j'ai peur des chats.
 
-# "Hmm moi j'aime les chats" s'écriat le voisin d'en bas.
-## Timmy Timmy d'un air surppris dis " mais que fais-tu dans ma cave ?"
-### d'un ton aigrie il répondit " tu tu tu tu tu tu " le reveille de timmy sonna.
+# "Hmm, moi j'aime les chats", s'exclama le voisin d'en bas.
+## Timmy Timmy, d'un air surpris, dit : "Mais que fais-tu dans ma cave ?"
+### D'un ton aigri, il répondit : "Tu tu tu tu tu tu." Le réveil de Timmy sonna.
 
 **Timmy Timmy** trembled as he heard the menacing growl of his neighbor's voice echoing in the hallway.
 
